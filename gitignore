@@ -1,0 +1,14 @@
+*
+
+!go.mod
+!main.go
+!parcel.go
+!parcel_test.go
+!tracker.db
+!Dockerfile
+
+
+.idea/
+.vscode/
+*.log
+*.tmp
